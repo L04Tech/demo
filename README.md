@@ -1,2 +1,2 @@
 # demo
-Změna v main větvi
+Jiná změna v nové větvi.
