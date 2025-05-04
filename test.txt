@@ -1,3 +1,1 @@
-Vytvořte si repozitář na Githubu.
-Do repozitáře mě přidejte jako spolupracovníka (jméno: matej-dostal)
-Naklonujte si jej k sobě a proveďte nějaké změny, ty commitněte a pushnětegit add .
+Vytvořte novou větev, ve které také provedete nějaké změny (ideálně, aby vznikl konflikt).
