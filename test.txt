@@ -1,1 +1,1 @@
-Vytvořte novou větev, ve které také provedete nějaké změny (ideálně, aby vznikl konflikt).
+Vyřešení konfliktu
